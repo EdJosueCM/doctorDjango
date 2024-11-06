@@ -1,0 +1,15 @@
+Tipo Sangre
+Examen Categoria
+Diagnostico
+Doctor
+Empleado
+Paciente
+Especialidad
+Tipo Categoria
+
+
+--- Falta --- 
+Cargo
+Empleado 
+Medicamento
+Tipo Medicamento
